@@ -360,3 +360,5 @@ service/
 popsmart/admin/
 popsmart/
 admin/
+wp-content/plugins/seoplugins/
+wp-content/
